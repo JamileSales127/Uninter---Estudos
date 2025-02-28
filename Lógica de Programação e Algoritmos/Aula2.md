@@ -1,4 +1,4 @@
-# 📚 Aula 3: Variáveis, Dados e Seus Tipos
+# 📚 Aula 2: Variáveis, Dados e Seus Tipos
 
 ## 1️⃣ VARIÁVEIS, DADOS E SEUS TIPOS
 As variáveis são espaços na memória do computador onde armazenamos valores. Cada variável possui um **tipo de dado**, que define o que pode ser armazenado nela.
