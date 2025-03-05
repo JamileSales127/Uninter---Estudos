@@ -1,4 +1,4 @@
-# ✨ Aula3 - Condicionais Aninhadas e Múltipla Escolha (`elif`) 📝💡
+# ✨ Aula 3 - Condicionais Aninhadas e Múltipla Escolha (`elif`) 📝💡
 
 ## 📌 Resumo
 
